@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FunnyGeneratorTablet</string>
+    <string name="joke_splash">Funnies!</string>
+    <string name="instructions">Press the GAFF! button and get ready to laugh! Press the Reveal button to reveal the punchline!</string>
+    <string name="laugh_button">GAFF!</string>
+    <string name="reveal_button">Reveal Punchline</string>
+    <string name="laughter">hahahahahahhahahahahahahahaha</string>
+    <string name="settings_title">Settings</string>
+    <string name="help_title">Help</string>
+    <string name="help_text">Developed by: Jack Theall and MacArthur Mills \n API: papajoke by Dadabase \n https://rapidapi.com/kevin-org-kevin-org-default/api/papajoke/</string>
+    <string name="action_share">Share</string>
+    <string name="main_title">Funnies!</string>
+</resources>
